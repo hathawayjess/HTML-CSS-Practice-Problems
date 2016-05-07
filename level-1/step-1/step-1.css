@@ -14,7 +14,7 @@
     width: 33.3%;
     float: left;
     /*this height is a placeholder. You will need to make some adjustment to get this container to look like the design */
-    height: 75vh;
+    height: 80vh;
     background: #565555;
 }
 
@@ -25,7 +25,7 @@
     width: 66.7%;
     float: right;
     /*this height is a placeholder. You will need to make some adjustment to get this container to look like the design */
-    height: 75vh;
+    height: 80vh;
     background: #B0B0B0;
     position: relative;
 
